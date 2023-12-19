@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UwdGCUD4)
 ### Задание №1
 
 Напишите функцию `getMonth()`, которая будет возвращать строку вида "Месяц Декабрь". На вход функция принимает порядковый номер месяца.
